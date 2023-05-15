@@ -13,7 +13,7 @@ King of The Hill Trivia
 7. What is Peggy's maiden name?
 8. How many men did Cotton kill in WWI?
 9. Which chain of grocery stores features Chuck Mangione, the musician, as a spokesperson?
-10. Where state is Reverend Stroup originally from?
+10. Which state is Reverend Stroup originally from?
 11. In the show, Monsignor Martinez(short for Las Dias Y Los Noches de Monsignor Martinez (The Days and the Nights of Monsignor Martinez in English)), Monsignor Martinez is a Hispanic Catholic priest who is also a mercenary. What is his famous catch phrase?
 12. Where do Kahn and Minh Souphanousinphone originally hale from?
 13. Who secretely ate all of Reverend Stroup's lutefisk?
@@ -24,4 +24,3 @@ King of The Hill Trivia
 18. What is the name of the band that John Redcorn is the lead singer of?
 19. How does Hank like his steaks?
 20. What is Hank's Japanese half brother's name?
-21. Where did Hank work before Strickland Propane? Who "discovered" him? 
