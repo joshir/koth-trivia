@@ -1,5 +1,4 @@
-# koth-trivia
-King of The Hill Trivia
+## King of The Hill Trivia
 <p align="center">
   <img src="https://github.com/joshir/koth-trivia/blob/fe52abc0667f3aaf8b05f0bd3dd932b4aeeaa847/Pocketsand.webp" alt="dale gribble throwing sand"/>
 </p>
