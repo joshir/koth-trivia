@@ -1,5 +1,5 @@
 # koth-trivia
-Trivia for King of The Hill
+King of The Hill Trivia
 
 1. How much money did Lucky recieve as settlement from Costco? What was the settlement for?
 2. What line of work is Boomhauer in?
