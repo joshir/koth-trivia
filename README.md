@@ -17,7 +17,7 @@
    </details>
 4. <details>
     <summary>Who is Dale Gribble's alter ego?</summary>
-    <p> Dale sometimes assumes the identity of Rusty Shackelford, for tax-purposes and his fear of Gov't spies.</p>
+    <p> Dale sometimes assumes the identity of Rusty Shackelford, for tax-evasion and his fear of Gov't spies.</p>
    </details>
 5. <details>
     <summary>Who is Joseph Gribble's putative father?</summary>
@@ -32,7 +32,7 @@
     <p>Platter</p>
    </details>
 8. <details>
-    <summary>How many men did Cotton kill in WWI?</summary>
+    <summary>How many men did Cotton kill in WWII?</summary>
     <p>50</p>
    </details>
 9. <details>
@@ -84,3 +84,8 @@
      <summary>What is Hank's Japanese half brother's name?</summary>
      <p>Junichiro</p>
     </details>
+21. <details>
+     <summary>Peggy's name for her spaghetti and meatballs recipe is _____.</summary>
+     <p>Spapeggy and meatbals</p>
+    </details>
+    
